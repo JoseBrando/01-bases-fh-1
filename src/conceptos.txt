@@ -1,0 +1,11 @@
+* tsconfig.json. Archivo de configuración de typescript y le dice a typescript como traducirse a javascript.
+* tsconfig.spec.json. Archivo relacionado con la parte de las pruebas unitarias o de integración.
+* tsconfig.app.json. Archivo de la aplicación.
+* README.md. Archivo que contiene código que puede traducirse como un código html.
+* package.json. Archivo que contiene comandos, dependencias de desarrollo y de producción.
+* package-lock.json. Archivo que indica como se construyo los módulos de node.
+* karma.conf.js. Archivo de configuraciones para pruebas unitarias y de integración basados en karma.
+* angular.json. Archivo de configuraciones de la aplicación.
+* .gitignore. Archivo que contiene los archivos que git ignorara.
+* .editorconfig. Son reglas para archivos de ts, md y otros archivos.
+* browserslistrc. Para compatibilidad con exploradores.

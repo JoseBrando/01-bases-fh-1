@@ -9,3 +9,7 @@
 * .gitignore. Archivo que contiene los archivos que git ignorara.
 * .editorconfig. Son reglas para archivos de ts, md y otros archivos.
 * browserslistrc. Para compatibilidad con exploradores.
+
+
+Notas:
+- Carga perezosa. Cargar módulos bajo demanda.
